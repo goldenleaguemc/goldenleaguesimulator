@@ -1,0 +1,265 @@
+{
+ "jug": [
+  {
+   "id": "b1wjyh",
+   "n": "Steve",
+   "ovr": 74,
+   "eq": "jk4h5x",
+   "nac": "bm6izz"
+  },
+  {
+   "id": "hn9kg5",
+   "n": "Alex",
+   "ovr": 82,
+   "eq": "njf153",
+   "nac": "bm6izz"
+  },
+  {
+   "id": "b4tle8",
+   "n": "Notch",
+   "ovr": 94,
+   "eq": "uu6hkp",
+   "nac": "bm6izz"
+  },
+  {
+   "id": "2xb9gr",
+   "n": "Herobrine",
+   "ovr": 80,
+   "eq": "4lvxr5",
+   "nac": "bm6izz"
+  },
+  {
+   "id": "g9dl0m",
+   "n": "Creeper",
+   "ovr": 81,
+   "eq": "jk4h5x",
+   "nac": "n4i426"
+  },
+  {
+   "id": "0o1mwi",
+   "n": "Enderman",
+   "ovr": 62,
+   "eq": "njf153",
+   "nac": "n4i426"
+  },
+  {
+   "id": "3l3jqq",
+   "n": "Zombie",
+   "ovr": 72,
+   "eq": "uu6hkp",
+   "nac": "n4i426"
+  },
+  {
+   "id": "euxoby",
+   "n": "Skeleton",
+   "ovr": 94,
+   "eq": "4lvxr5",
+   "nac": "n4i426"
+  },
+  {
+   "id": "gdew55",
+   "n": "Slime",
+   "ovr": 93,
+   "eq": "jk4h5x",
+   "nac": "urocct"
+  },
+  {
+   "id": "9xwvxb",
+   "n": "Ghast",
+   "ovr": 73,
+   "eq": "njf153",
+   "nac": "urocct"
+  },
+  {
+   "id": "849em6",
+   "n": "Blaze",
+   "ovr": 93,
+   "eq": "uu6hkp",
+   "nac": "urocct"
+  },
+  {
+   "id": "yfseh9",
+   "n": "Wither",
+   "ovr": 70,
+   "eq": "4lvxr5",
+   "nac": "urocct"
+  },
+  {
+   "id": "wk5y9w",
+   "n": "Piglin",
+   "ovr": 74,
+   "eq": "jk4h5x",
+   "nac": "75foyl"
+  },
+  {
+   "id": "5jj005",
+   "n": "Drowned",
+   "ovr": 69,
+   "eq": "njf153",
+   "nac": "75foyl"
+  },
+  {
+   "id": "7ji7j2",
+   "n": "Phantom",
+   "ovr": 64,
+   "eq": "uu6hkp",
+   "nac": "75foyl"
+  },
+  {
+   "id": "vy8vc1",
+   "n": "Warden",
+   "ovr": 62,
+   "eq": "4lvxr5",
+   "nac": "75foyl"
+  }
+ ],
+ "eqs": [
+  {
+   "id": "jk4h5x",
+   "n": "Dragones"
+  },
+  {
+   "id": "njf153",
+   "n": "Creepers"
+  },
+  {
+   "id": "uu6hkp",
+   "n": "Piglins"
+  },
+  {
+   "id": "4lvxr5",
+   "n": "Endermen"
+  }
+ ],
+ "nacs": [
+  {
+   "id": "bm6izz",
+   "n": "España"
+  },
+  {
+   "id": "n4i426",
+   "n": "México"
+  },
+  {
+   "id": "urocct",
+   "n": "Argentina"
+  },
+  {
+   "id": "75foyl",
+   "n": "Chile"
+  }
+ ],
+ "comps": [
+  {
+   "id": "5lznmz",
+   "n": "Golden League",
+   "tipo": "l",
+   "ids": [
+    "b1wjyh",
+    "hn9kg5",
+    "b4tle8",
+    "2xb9gr",
+    "g9dl0m",
+    "0o1mwi",
+    "3l3jqq",
+    "euxoby",
+    "gdew55",
+    "9xwvxb",
+    "849em6",
+    "yfseh9",
+    "wk5y9w",
+    "5jj005",
+    "7ji7j2",
+    "vy8vc1"
+   ],
+   "t": 1,
+   "nj": 10,
+   "pts": [
+    15,
+    12,
+    10,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "pk": 0
+  },
+  {
+   "id": "uw2ib4",
+   "n": "Golden Cup",
+   "tipo": "l",
+   "ids": [
+    "b1wjyh",
+    "hn9kg5",
+    "b4tle8",
+    "2xb9gr",
+    "g9dl0m",
+    "0o1mwi",
+    "3l3jqq",
+    "euxoby",
+    "gdew55",
+    "9xwvxb",
+    "849em6",
+    "yfseh9",
+    "wk5y9w",
+    "5jj005",
+    "7ji7j2",
+    "vy8vc1"
+   ],
+   "t": 1,
+   "nj": 10,
+   "pts": [
+    15,
+    12,
+    10,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "pk": 0
+  },
+  {
+   "id": "kgf0xe",
+   "n": "Mundial Borrunations",
+   "tipo": "n",
+   "ids": [
+    "bm6izz",
+    "n4i426",
+    "urocct",
+    "75foyl"
+   ],
+   "t": 1,
+   "nj": 10,
+   "pts": [
+    15,
+    12,
+    10,
+    8,
+    7,
+    6,
+    5,
+    4,
+    3,
+    2,
+    1,
+    0
+   ],
+   "pk": 0
+  }
+ ],
+ "part": [],
+ "pal": [],
+ "aw": []
+}
